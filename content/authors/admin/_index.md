@@ -41,7 +41,7 @@ education:
     - course: B.Eng.
       institution: University of South China
       year: 2011
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
