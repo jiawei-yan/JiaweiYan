@@ -32,19 +32,15 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: European XFEL
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD "
+      institution: University of Chinese Academy of Sciences
+      year: 2021
+    - course: B.Eng.
+      institution: University of South China
+      year: 2011
 superuser: true
 status:
   icon: ☕️
